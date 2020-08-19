@@ -1,0 +1,1 @@
+# filebeat-pipelines-7.8.1
